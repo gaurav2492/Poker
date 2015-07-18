@@ -1,0 +1,1 @@
+This is a Poker hand evualator. This program reads in hands of last two players and evaluates the rank of the hand and displays the hand that is better than the other.
